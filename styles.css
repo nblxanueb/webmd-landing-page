@@ -69,7 +69,8 @@ body {
 .main__header span {
   background-image: url(https://hrcdn.net/s3_pub/istreet-assets/my6lzCIsuHX_PTC57DHQ2g/img-highlight-orange@2x.png);
   background-repeat: no-repeat;
-  background-size: 224px 23px;
+  width: 225px;
+  background-size: 224px 25px;
   color: black;
   align-self: center;
 }
@@ -129,12 +130,12 @@ body {
 }
 
 .section2__header {
-  width: fit-content;
+  width: 130px;
   background-image: url(https://hrcdn.net/s3_pub/istreet-assets/my6lzCIsuHX_PTC57DHQ2g/img-highlight-orange@2x.png);
   background-repeat: no-repeat;
-  background-size: 120px 28px;
+  background-size: 130px 28px;
   color: black;
-  padding: 0;
+  padding: 0 3px;
 }
 
 .subsection3__container {
